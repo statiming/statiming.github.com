@@ -6,40 +6,82 @@ tags : [intro, beginner, jekyll, tutorial]
 
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+# Level 1 Header (H1)
+## Level 2 Header (H2)
+##### Level 5 Header (H5)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+webpage original is from [here](http://support.mashery.com/docs/customizing_your_portal/Markdown_Cheat_Sheet/ "show txt"). 
 
-## Update Author Attributes
+one or more consecutive lines of text separated by one or more blank lines. one or more consecutive lines of text separated by one or more blank lines.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+This is another paragraph.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+I am a sentence with  
+a line break.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
 
-    $ rm -rf _posts/core-samples
+* Red
+* Green
+* Blue
 
-Here's a sample "posts list".
++ Red
++ Green
++ Blue
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+- Red
+- Green
+- Blue
 
-## To-Do
+1. Bird
+2. McHale
+3. Parish
 
-This theme is still unfinished.
+Term
+: Definition
 
+Multiple definitions
+
+Apple
+: Pomaceous fruit of plants of the genus Malus.
+: An american computer company.
+
+Term 1
+Term 2
+: Definition
+
+I am *emphasized* and I am **bold**
+
+This is [an example](http://example.com/ "Optional Title") inline link.
+
+[id]: http://example.com/ "Optional Title Here"
+This is [an example][id] reference-method link.
+
+<http://example.com/> <address@example.com>
+
+This is a normal paragraph.
+
+         This is a code block
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Row1 Cell1    | Row1 Cell2    |
+| Row2 Cell1    | Row2 Cell2    |
+
+
+\\
+\`
+\*
+\_
+\{\}
+\[\]
+\(\)
+\#
+\+
+\-
+\.
+\!
+\:
+\|
+
+{{ page.date | date_to_string }}
