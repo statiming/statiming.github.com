@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
+tagline:  半导休　统计　投机
 ---
 {% include JB/setup %}
 
