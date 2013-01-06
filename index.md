@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline:  半导休　统计　投机
+title: 半导休　统计　投机
+tagline: 一个老工程师博客
 ---
 {% include JB/setup %}
 
@@ -40,7 +40,6 @@ Here's a sample "posts list".
 
 ## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+This theme is still unfinished.
 
 
