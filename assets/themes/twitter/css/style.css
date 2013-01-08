@@ -71,10 +71,6 @@ html, body {
 	
 table, th, td { border: 1px solid; }
 
-.odd {
-background: #cff;
-}
-
 /* This is the style for our default (even) row */
 tr { background-color: #FFF; }
 
