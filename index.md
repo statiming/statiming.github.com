@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 半导休　统计　投机
-tagline: 一个老工程师博客
+title: 半导体　统计　投机
+tagline: 一个老工程师的博客
 ---
 {% include JB/setup %}
 
