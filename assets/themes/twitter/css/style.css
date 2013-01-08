@@ -71,10 +71,10 @@ html, body {
 	
 table, th, td { border: 1px solid; }
 
-tr.even td {
+tr. td {
   background-color: #E3ECC0;
 }
 
-tr.odd td {
+tr.alt td {
   background-color: #FDFFEF;
 }
