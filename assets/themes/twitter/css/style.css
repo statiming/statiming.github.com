@@ -70,5 +70,11 @@ html, body {
 }
 	
 table, th, td { border: 1px solid; }
-tr:nth-child(odd)		{ background-color:#eee; }
-tr:nth-child(even)		{ background-color:#fff; }
+
+tr.even td {
+  background-color: #E3ECC0;
+}
+
+tr.odd td {
+  background-color: #FDFFEF;
+}
