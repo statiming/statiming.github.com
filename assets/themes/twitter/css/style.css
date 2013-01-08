@@ -69,6 +69,5 @@ html, body {
 	color:#FFF;
 }
 	
-
-td { border: 1px solid; }
+table td th { border: 1px solid; }
 
