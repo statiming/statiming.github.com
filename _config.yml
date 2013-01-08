@@ -82,7 +82,8 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+  #    short_name : jekyllbootstrap
+      short_name : ictraderwp
     livefyre :
       site_id : 123
     intensedebate :
