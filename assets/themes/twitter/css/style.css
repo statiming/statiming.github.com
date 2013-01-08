@@ -77,5 +77,5 @@ tr { background-color: #FFF; }
 /* This is the style for our striped (odd) row */
 tr:nth-child(odd) { background-color: #B3BAC7; }
 
-table-header {background-color: #FFF; }
+.thead {background-color: #FFF; }
 /* This table head row */
