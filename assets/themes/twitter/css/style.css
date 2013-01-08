@@ -71,6 +71,7 @@ html, body {
 	
 table, th, td { border: 1px solid; }
 
+/*
 tr. td {
   background-color: #E3ECC0;
 }
@@ -78,3 +79,7 @@ tr. td {
 tr.alt td {
   background-color: #FDFFEF;
 }
+*/
+
+.table-alt table tr:nth-child(odd){    background-color: #EEE; }
+
