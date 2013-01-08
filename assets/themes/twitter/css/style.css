@@ -78,4 +78,5 @@ tr { background-color: #FFF; }
 tr:nth-child(odd) { background-color: #B3BAC7; }
 
 /* This table head row */
-table thead { background-color: #FFF; }
+/*table thead { background-color: #FFF; }*/
+thead th:first-child { background: none; }
