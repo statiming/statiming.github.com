@@ -75,3 +75,8 @@ table, th, td { border: 1px solid; }
 background: #cff;
 }
 
+/* This is the style for our default (even) row */
+tr { background-color: #FFF; }
+
+/* This is the style for our striped (odd) row */
+tr:nth-child(odd) { background-color: #B3BAC7; }
