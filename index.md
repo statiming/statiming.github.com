@@ -15,13 +15,11 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 The theme should reference these variables whenever needed.
     
-## Sample Posts
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+## Latest Posts
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit 5 %}
     <li><span>{{ post.date | date_to_utc | date: '%Y-%m-%d' }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
