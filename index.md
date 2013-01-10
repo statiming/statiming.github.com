@@ -5,9 +5,8 @@ tagline: 一个老工程师的博客
 ---
 {% include JB/setup %}
 
-Englisth Pages [is here](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## 欢迎来到我的个人页面
 
-欢迎来到我的个人页面，  
 
 ## Update Author Attributes
 
@@ -20,3 +19,5 @@ Englisth Pages [is here](http://jekyllbootstrap.com/usage/jekyll-quick-start.htm
     <li><span>{{ post.date | date_to_utc | date: '%Y-%m-%d' }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+## [Englisth Pages](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
