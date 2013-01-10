@@ -5,8 +5,8 @@ tagline: 一个老工程师的博客
 ---
 {% include JB/setup %}
 
-## 欢迎来到我的个人页面
 
+欢迎来到我的个人页面
 
 ## Update Author Attributes
 
@@ -20,4 +20,5 @@ tagline: 一个老工程师的博客
   {% endfor %}
 </ul>
 
-## [Englisth Pages](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Englisth Pages
+For non-Chinese reader, please read [Englisth Pages](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
