@@ -5,7 +5,7 @@ tagline: 一个老工程师的博客
 ---
 {% include JB/setup %}
 
-Englisth Pages [is here] (http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Englisth Pages [is here](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 欢迎来到我的个人页面，  
 
