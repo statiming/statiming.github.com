@@ -1,13 +1,13 @@
 ---
 layout: post
-category : trading 
+category : linux 
 analytics : false
-title:  delete p4 client 
+title:  Delete p4 Client 
 tags : [concept]
 ---
 {% include JB/setup %}
 
-p4 complain about there is pending changes when delete 
+p4 complain about there is pending changes when delete client, this is code getting those pending changes   
 		
 		p4 revert ...
 		p4 sync ...#none 
@@ -24,4 +24,4 @@ some  p4 client root [dir] have been deleted by force logn time ago, we need cre
 
 		p4 client client_name 
      	
-then we change the p4 client configur and using the abover tricks to clean up the pending changes 
+then we change the p4 client configur and using the above tricks to clean up the pending changes 
