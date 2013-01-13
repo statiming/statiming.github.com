@@ -1,18 +1,17 @@
 ---
 layout: page
-title: 半导体 统计 投机
-tagline: 一个老工程师的博客
+title:  
+tagline: 
 ---
 {% include JB/setup %}
 
-欢迎来到我的个人页面
 
 
 ## Update Author Attributes
 
     $ rm -rf _posts/core-samples
 
-## 最新文章
+## AAA
 
 <ul class="posts">
   {% for post in site.posts limit:5 %}
