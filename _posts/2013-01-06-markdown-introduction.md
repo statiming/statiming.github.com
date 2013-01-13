@@ -69,6 +69,20 @@ This is a normal paragraph.
 | Row2 Cell1    | Row2 Cell2    |
 
 
+
+# Test Markdwon Table 
+
+Left align|Right align|Center align|
+:---------|----------:|:----------:|
+This|This|This|
+column|column|column|
+will|will|will|
+be|be|be|
+left|right|center|
+aligned|aligned|aligned|
+
+
+
 \\
 \`
 \*
