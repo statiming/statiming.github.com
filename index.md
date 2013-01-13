@@ -1,18 +1,18 @@
 ---
 layout: page
-title: °ëµ¼Ìå¡¡Í³¼Æ¡¡Í¶»ú
-tagline: Ò»¸öÀÏ¹¤³ÌÊ¦µÄ²©¿Í
+title: åŠå¯¼ä½“ ç»Ÿè®¡ æŠ•æœº
+tagline: ä¸€ä¸ªè€å·¥ç¨‹å¸ˆçš„åšå®¢
 ---
 {% include JB/setup %}
 
+æ¬¢è¿æ¥åˆ°æˆ‘çš„ä¸ªäººé¡µé¢
 
-»¶Ó­À´µ½ÎÒµÄ¸öÈËÒ³Ãæ
 
 ## Update Author Attributes
 
     $ rm -rf _posts/core-samples
 
-## ×îĞÂÎÄÕÂ  
+## æœ€æ–°æ–‡ç« 
 
 <ul class="posts">
   {% for post in site.posts limit:5 %}
