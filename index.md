@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 物理设计 统计投机
-tagline: 一个工程师的博客
+tagline: 一个时序工程师的博客
 ---
 {% include JB/setup %}
 
