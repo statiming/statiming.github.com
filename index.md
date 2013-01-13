@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 随机漫步
-tagline: 一个时序工程师的博客
+tagline: 一个时序工程师的工作与梦想
 ---
 {% include JB/setup %}
 
