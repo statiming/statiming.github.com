@@ -10,12 +10,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : EdgeTrading 
+title : STATiming
 tagline:   
 author :
-  name : ICTrader 
-  email : yubingem@gmail.com
-  github : edgetrading
+  name : ICTimer 
+  email : yubingem@hotmail.com
+  github : statiming
   twitter : username
   feedburner : feedname
 
