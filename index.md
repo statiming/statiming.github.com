@@ -1,17 +1,17 @@
 ---
 layout: page
-title:  
-tagline: 
+title:  IC设计与投机交易
+tagline: 一个老工程师的博客
 ---
 {% include JB/setup %}
 
-
+欢迎来到
 
 ## Update Author Attributes
 
     $ rm -rf _posts/core-samples
 
-## AAA
+## 最新文章
 
 <ul class="posts">
   {% for post in site.posts limit:5 %}
