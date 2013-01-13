@@ -1,6 +1,6 @@
 ---
 layout: post
-category : trading 
+category : Trading 
 title : What's Edge 
 comments : false
 tags : [concept]
