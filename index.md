@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  IC设计与投机交易
-tagline: 一个老工程师的博客
+title: 物理设计 统计投机
+tagline: 一个工程师的博客
 ---
 {% include JB/setup %}
 
