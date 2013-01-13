@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 物理设计 统计投机
+title: 随机漫步
 tagline: 一个时序工程师的博客
 ---
 {% include JB/setup %}
