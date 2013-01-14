@@ -20,4 +20,4 @@ tagline: 一个时序工程师的工作与梦想
 </ul>
 
 ## Englisth Pages
-For non-Chinese reader, please read [Englisth Pages](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+For non-Chinese reader, please read [Englisth Pages](http://statiming.github.com/en)
